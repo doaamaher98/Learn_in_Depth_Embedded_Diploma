@@ -1,1 +1,1 @@
-Hello to my GitHub!
+Welcome to Embedded Systems Course
