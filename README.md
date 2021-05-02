@@ -1,1 +1,2 @@
-# Embedded_Systems_Diploma-LID-
+# Embedded_Systems_Diploma
+Learn in depth
