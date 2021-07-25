@@ -1,0 +1,2 @@
+#ARM_TOOLCHAIN
+export PATH=/c/ARM_TOOLCHAIN/bin:$PATH
